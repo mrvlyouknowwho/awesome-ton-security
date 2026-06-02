@@ -83,10 +83,11 @@
 
 ## Skills
 
-- [Trail of Bits: ton-vulnerability-scanner](https://github.com/trailofbits/skills/tree/main/plugins/building-secure-contracts/skills/ton-vulnerability-scanner)
-- [elsvv/ton-best-practices-skill](https://github.com/elsvv/ton-best-practices-skill)
-- [espritoxyz/ton-ai-audit-skill](https://github.com/espritoxyz/ton-ai-audit-skill)
-- [sanbir/ton-auditor-skills](https://github.com/sanbir/ton-auditor-skills)
+- [Trail of Bits: ton-vulnerability-scanner](https://github.com/trailofbits/skills/tree/main/plugins/building-secure-contracts/skills/ton-vulnerability-scanner) - Scans TON smart contracts for known vulnerability patterns and highlights risky code paths.
+- [elsvv/ton-best-practices-skill](https://github.com/elsvv/ton-best-practices-skill) - Provides secure development guidance and practical best practices for TON smart contracts.
+- [espritoxyz/ton-ai-audit-skill](https://github.com/espritoxyz/ton-ai-audit-skill) - Uses AI-assisted workflows to review TON contracts and surface potential security issues.
+- [sanbir/ton-auditor-skills](https://github.com/sanbir/ton-auditor-skills) - A collection of TON-focused auditing skills for reviewing contracts, findings, and common mistakes.
+- [mysteryon88/web3-universalmutator](https://github.com/mysteryon88/skills/tree/main/web3-universalmutator) - Mutation testing workflow for TON smart contracts using Universal Mutator to measure test-suite strength.
 
 ## Bug Bounty
 
