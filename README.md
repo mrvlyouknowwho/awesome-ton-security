@@ -80,6 +80,7 @@
 - [TON Symbolic Analyzer](https://tonsec.dev/) - A static analysis tool that uses symbolic execution to perform automated security verification for TON smart contracts.
 - [tolk-less](https://github.com/jubnzv/tolk-less) – A small Tolk compiler fuzzer focused on arithmetic miscompilations
 - [Universalmutator](https://github.com/agroce/universalmutator) - A mutation testing utility for TON smart contracts written in Tolk, FunC and Tact, with support for custom mutation rules. Helps evaluate test robustness and identify weaknesses in test coverage.
+- [TON Jetton Risk API](https://github.com/mrvlyouknowwho/ton-jetton-risk-api) – A pay-per-call API that screens TON jettons for rug/honeypot risk (mint authority, holder concentration, DEX liquidity, taxable transfers) before you trade. Open docs, free trial.
 
 ## Skills
 
